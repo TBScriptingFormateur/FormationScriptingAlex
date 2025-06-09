@@ -6,7 +6,7 @@ function my_func() {
   // crt+F = find and replace 
   // tab sur plusieur lignes : deplace tout vers la droite  
 
-  MessageBox.information("bonjouer5")
+  MessageBox.information("Aurevoir")
 
 }
 
