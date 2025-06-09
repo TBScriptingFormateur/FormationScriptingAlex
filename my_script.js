@@ -8,6 +8,8 @@ function my_func() {
 
   MessageBox.information("Aurevoir toutle monde")
 
+  // fait sur github 
+
 }
 
 // je change dans toonboom
