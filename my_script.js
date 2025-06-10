@@ -1,19 +1,21 @@
 function my_func() {
 
-  // crtl+ D = dupliquer 
-  // crtl+shift  up or down = drag and drop 
-  // crtl+  left or rigth = sauter une section 
-  // crt+F = find and replace 
-  // tab sur plusieur lignes : deplace tout vers la droite  
+    // declaration de la variable my_var et assignation d'une valeur de 1 
 
-  MessageBox.information("Aurevoir toutle monde")
+    var my_var = 3 // int 
+    
+    var my_float = 1.4989 + 10
 
-  // fait sur github 
+    MessageLog.trace(my_float)
 
-}
+  }
 
-// je change dans toonboom
+  /*
 
+  BOOLEANS 
 
+  STRING 
 
+  ARRAY 
 
+  
