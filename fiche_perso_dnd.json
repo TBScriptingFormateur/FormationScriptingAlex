@@ -1,0 +1,12 @@
+{
+      "tronc":{
+        "branche1":{
+          "branche2":{
+            "fruits":["pomme1","pomme2"]
+          },
+          "branche3":{
+            "fruits":["pomme3","pomme4"]
+          }
+        }
+      }
+}
